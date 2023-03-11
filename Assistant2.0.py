@@ -74,7 +74,7 @@ def record():
                 wf.close()
                 break
 
-openai.api_key = "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"
+openai.api_key = "s"
 def generate_response(audio):
     global messages
 
